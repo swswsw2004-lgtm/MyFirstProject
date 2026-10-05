@@ -1,1 +1,3 @@
-ptinr("hello")
+print("hello")
+
+print("hi")
